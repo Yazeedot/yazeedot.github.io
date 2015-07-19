@@ -2,6 +2,7 @@ Package: com.zezblog.noslowanimationsar
 Version: 4.2
 Architecture: iphoneos-arm
 Maintainer: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depends: firmware (>= 5.0)
 Filename: debs//com.zezblog.noslowanimationsar.deb
 Size: 77716
 MD5sum: 336FD1919C14380D2CC80F22DFE28536
