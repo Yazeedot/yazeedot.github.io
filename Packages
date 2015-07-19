@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Yazeed Aloaibi <yazeedotpp@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: debs//com.zezblog.noslowanimationsar.deb
-Size: 77716
+Size: 77730
 MD5sum: 82db86a6df797ab3388995521926431c
 SHA1: e88b98587c768a5ad8e6b008390740e9940db2cd
 SHA256: 5676514a7be286ce3e916a1536ce9682dad2ac01825a38dff039261a496e4f35
