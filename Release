@@ -1,0 +1,9 @@
+Origin: ZezBlog Repo
+Label: ZezBlog Repo
+Suite: stable
+Version: 0.1
+Codename: ZezBlog	
+Architectures: iphoneos-arm
+Components: main
+Description: Zezblog.com Repo
+MD5Sun:
