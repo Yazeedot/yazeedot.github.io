@@ -1,0 +1,15 @@
+Package: com.zezblog.noslowanimationsar
+Version: 4.2
+Architecture: iphoneos-arm
+Maintainer: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depends: Preference
+Filename: debs//com.zezblog.noslowanimationsar.deb
+Size: 77716
+MD5sum: 82DB86A6DF797AB3388995521926431C
+SHA1: E88B98587C768A5AD8E6B008390740E9940DB2CD
+SHA256: 5676514A7BE286CE3E916A1536CE9682DAD2AC01825A38DFF039261A496E4F35
+Section: System 
+Description: NoSlowAnimations Arabic Version 
+Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depiction: http://yazeedot.github.io/depic/noslowanimationsar/index.html
+Name: NoSlowanimationsAR
