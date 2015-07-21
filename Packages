@@ -13,3 +13,20 @@ Description: NoSlowAnimations Arabic Version
 Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
 Depiction: http://yazeedot.github.io/depic/noslowanimationsar/index.html
 Name: NoSlowanimationsAR
+
+
+Package: com.zezblog.nomusicvolumelow
+Version: 4.2
+Architecture: iphoneos-arm
+Maintainer: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//com.zezblog.nomusicvolumelow.deb
+Size: 1982
+MD5sum: dfd85ff43875eea7568b737c9628d84c
+SHA1: bf1539332255cb5b551ba49f5da013fb56a05b41
+SHA256: 7e264ef3d72facb630631d81a3d2b169a98b7437d430c46ba03a338485c7bbad
+Section: System 
+Description: Never music volume go down when receive message or alert
+Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depiction: http://yazeedot.github.io/depic/nomusicvolumelow/index.html
+Name: NoMusicVolumeLow
