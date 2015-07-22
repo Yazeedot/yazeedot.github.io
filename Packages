@@ -30,3 +30,20 @@ Description: Never music volume go down when receive message or alert
 Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
 Depiction: http://yazeedot.github.io/depic/nomusicvolumelow/index.html
 Name: NoMusicVolumeLow
+
+
+Package: com.zezblog.gtracing2hack
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//com.zezblog.gtracing2hack.deb
+Size: 51528
+MD5sum: 5ebce1b60e696c58db87109ac87623b5
+SHA1: 21953eb06a22058178ce8b703171872999d65d75
+SHA256: efbb98471e1144b70215cbbf58ee52cd6f89f0204c50c8f1a18b74456ffcf7a7
+Section: Game Hacks 
+Description: All Car Free , All upgrade free and AntiBan
+Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depiction: http://yazeedot.github.io/depic/gtracing2hack/index.html
+Name: GtRacing2Hack
