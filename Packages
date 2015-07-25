@@ -46,4 +46,20 @@ Section: Game Hacks
 Description: All Car Free , All upgrade free and AntiBan
 Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
 Depiction: http://yazeedot.github.io/depic/gtracing2hack/index.html
-Name: GtRacing2Hack
+
+
+Package: com.zezblog.unlimitedping
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//com.zezblog.unlimitedping.deb
+Size: 3004
+MD5sum: 07047400090cc6e2e9e553416325ad76
+SHA1: 058a9f38afcfc6620ffba636757a6b0c6bf6d7fd
+SHA256: b6df4568dcda7f1cb9d94f81cecad477b2c9395bd73bc093fe88fac7d28d37b5
+Section: Tweaks 
+Description: UnLimited Ping For BBM 
+Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depiction: http://yazeedot.github.io/depic/gtracing2hack/index.html
+Name: UnLimitedPing
