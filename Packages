@@ -63,3 +63,19 @@ Description: UnLimited Ping For BBM
 Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
 Depiction: http://yazeedot.github.io/depic/unlimitedping
 Name: UnLimitedPing
+
+Package: com.zezblog.playytinbg
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//com.zezblog.playytinbg.deb
+Size: 28132
+MD5sum: 844c158adfb61aeeb3ab0a3834412ef8
+SHA1: d0cf47e2fc0c774cb9db0075b9bd44e4d6e5d245
+SHA256: 0aab68b5167a6be5008e0a06cd56bc1dbc9e8d27480f127b8fd8347150747521
+Section: Tweaks 
+Description: Play Youtube Videos in background !
+Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depiction: http://yazeedot.github.io/depic/playytinbg/
+Name: PlayYTinBG
