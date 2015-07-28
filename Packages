@@ -79,3 +79,19 @@ Description: Play Youtube Videos in background !
 Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
 Depiction: http://yazeedot.github.io/depic/playytinbg/
 Name: PlayYTinBG
+
+Package: com.zezblog.instalikescheat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//com.zezblog.instalikescheat.deb
+Size: 32844
+MD5sum: 7687f6c9988372c6cf56d2889cd3e52f
+SHA1: 5251db1d8dd25c244759418aef7aefe394a6e82d
+SHA256: 5fb95f391e260cb1052cab45d8452f63a3188c60875b6a782df834b345141dee
+Section: Tweaks 
+Description: Get unlimited WelcomeBack Points !
+Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depiction: http://yazeedot.github.io/depic/instalikescheat
+Name: InstaLikesCheat
