@@ -95,3 +95,19 @@ Description: Get unlimited WelcomeBack Points !
 Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
 Depiction: http://yazeedot.github.io/depic/instalikescheat
 Name: InstaLikesCheat
+
+Package: com.zezblog.itranslatevoicepro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//com.zezblog.itranslatevoicepro.deb
+Size: 3200
+MD5sum: cda6daac94fca5fe1da64bcc8232a69e
+SHA1: c0c50a5cc06646752ebc5595c20480e4ecf4363d
+SHA256: 01cfba7ee66f19d352b9662224aca4382d4e12652119b43f353bc6f0794d4f69
+Section: Tweaks 
+Description: Change version from Lite to Pro (Unlocked the Phrasebook option, all languages, stopped the upgrade request on app )
+Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depiction: http://yazeedot.github.io/depic/itranslatevoicepro
+Name: iTranslateVoicePro
