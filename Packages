@@ -111,3 +111,19 @@ Description: Change version from Lite to Pro (Unlocked the Phrasebook option, al
 Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
 Depiction: http://yazeedot.github.io/depic/itranslatevoicepro
 Name: iTranslateVoicePro
+
+Package: mortalkombatx
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depends: mobilesubstrate
+Size: 174924
+Filename: debs//mortalkombatx.deb
+MD5sum: 030eb3ddd76452e59bca25a9bd3b23be
+SHA1: 14aeea68476b44cef731a9f8984ddc9752e81c45
+SHA256: 1a3f7c081daa2c08e45612c3088d878b24d684d57a7cb19c3af4b9c55105d9f3
+Section: Tweaks 
+Description: MORTAL KOMBAT X 1.3 +9 Hacks
+Author: Yazeed Aloaibi <yazeedotpp@gmail.com>
+Depiction: http://yazeedot.github.io/depic/mortalkombatx
+Name: mortalkombatx
